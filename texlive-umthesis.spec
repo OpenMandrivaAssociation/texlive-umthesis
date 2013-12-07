@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-umthesis
 Version:	0.2
-Release:	3
+Release:	4
 Summary:	Dissertations at the University of Michigan
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umthesis
